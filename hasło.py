@@ -10,3 +10,4 @@ for i in range(l):
     h = h + random.choice(znaki)
     
 print("oto twoje nowe hasło: ", h)
+print("cześć wszystkim")
